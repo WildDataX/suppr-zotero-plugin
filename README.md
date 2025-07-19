@@ -2,7 +2,7 @@
 超能文献suppr.ai的zotero文档翻译插件
 
 
-https:////player.bilibili.com/player.html?isOutside=true&aid=114880577273944&bvid=BV1t4udzyEqo&cid=31153718008&p=1
+https://player.bilibili.com/player.html?isOutside=true&aid=114880577273944&bvid=BV1t4udzyEqo&cid=31153718008&p=1
 
 ## 相关链接：
 - 超能文献文档翻译： https://suppr.wilddata.cn/translate/upload
