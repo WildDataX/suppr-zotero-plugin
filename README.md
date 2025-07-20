@@ -11,3 +11,7 @@ https://player.bilibili.com/player.html?isOutside=true&aid=114880577273944&bvid=
 - 超能文献EXCEL文档翻译：https://suppr.wilddata.cn/translate/landing/xlsx
 - 超能文献PPT文档翻译：https://suppr.wilddata.cn/translate/landing/pptx
 - 超能文献网页翻译：https://suppr.wilddata.cn/translate/landing/html
+
+
+本插件项目结构采用了开源模板 https://github.com/windingwind/zotero-plugin-template
+
