@@ -13,5 +13,5 @@ https://player.bilibili.com/player.html?isOutside=true&aid=114880577273944&bvid=
 - 超能文献网页翻译：https://suppr.wilddata.cn/translate/landing/html
 
 
-本插件项目结构采用了开源模板 https://github.com/windingwind/zotero-plugin-template
+本插件项目结构采用了开源模板 https://github.com/windingwind/zotero-plugin-template 并已经获得原作者 @windingwind  授权
 
