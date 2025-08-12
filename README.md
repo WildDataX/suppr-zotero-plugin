@@ -15,3 +15,8 @@ https://player.bilibili.com/player.html?isOutside=true&aid=114880577273944&bvid=
 
 本插件项目结构采用了开源模板 https://github.com/windingwind/zotero-plugin-template 并已经获得原作者 @windingwind  授权
 
+本插件已被Zotero中文社区收录。
+- [https://zotero-chinese.com/plugins/](https://zotero-chinese.com/plugins/#search=%E8%B6%85%E8%83%BD%E6%96%87%E7%8C%AE)
+- https://github.com/zotero-chinese/zotero-plugins/pull/189
+
+
