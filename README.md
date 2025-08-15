@@ -11,8 +11,7 @@
 
 *一键翻译学术文献，让语言不再成为知识获取的障碍*
 
-[📥 下载插件](#安装指南) | [📖 使用教程](#使用方法) | [🌐 官方网站](https://suppr.wilddata.cn) | [❓ 常见问题](#常见问题)
-
+[📥 下载插件](#安装指南) | [🌐 官方网站](https://suppr.wilddata.cn) 
 </div>
 
 ---
@@ -29,7 +28,6 @@ https://player.bilibili.com/player.html?isOutside=true&aid=114880577273944&bvid=
 - ⚡ **高效便捷**：无需离开 Zotero 环境
 - 🔒 **隐私保护**：文档翻译过程安全可靠
 - 🌍 **多语言支持**：支持多种语言互译
-- 📚 **批量处理**：支持多文档批量翻译
 
 ## 🚀 快速开始
 
@@ -40,16 +38,6 @@ https://player.bilibili.com/player.html?isOutside=true&aid=114880577273944&bvid=
 - 超能文献账户（可免费注册）
 
 ### 安装指南
-
-#### 方法一：自动安装（推荐）
-
-1. 打开 Zotero
-2. 点击 `工具` → `插件`
-3. 点击齿轮图标 → `从文件安装插件`
-4. 选择下载的 `.xpi` 文件
-5. 重启 Zotero
-
-#### 方法二：手动安装
 
 1. 前往 [Releases 页面](https://github.com/WildDataX/suppr-zotero-plugin/releases)
 2. 下载最新版本的 `.xpi` 文件
@@ -68,7 +56,6 @@ https://player.bilibili.com/player.html?isOutside=true&aid=114880577273944&bvid=
 
 ### 高级功能
 
-- **批量翻译**：选择多个文档进行批量翻译
 - **翻译设置**：自定义翻译语言对和质量设置
 - **进度监控**：实时查看翻译进度和状态
 
@@ -130,8 +117,10 @@ A: 翻译速度取决于：
 
 A: 目前支持：
 - PDF 文档（推荐）
-- 图片格式的PDF
-- 扫描版PDF（OCR识别）
+- PPT
+- WORD
+- EXCEL
+- HTML
 </details>
 
 <details>
