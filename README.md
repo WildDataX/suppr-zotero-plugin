@@ -1,4 +1,4 @@
-# 🔥 Suppr Zotero Plugin
+# 🔥 Suppr Zotero Plugin|Zotero翻译插件
 
 <div align="center">
 
