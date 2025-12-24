@@ -18,8 +18,7 @@
 
 ## 📺 演示视频
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115768175887468&bvid=BV1evBKBTEJV&cid=34928395370&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-
+【【AI视频】全网最强大尺度图片AI生成视频教程，能把任何图片轻松转换成你想生成的视频，掌握自媒体流量密码，1分钟快速教你掌握AI制作视频】 https://www.bilibili.com/video/BV19mqbBYEq7/?share_source=copy_web&vd_source=634c84ab78ff6351b8142a25deb36ec2
 ## ✨ 主要特性
 
 - 🚀 **右键翻译**：在 Zotero 中直接翻译 PDF 文档
