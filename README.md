@@ -35,7 +35,7 @@
 
 ### 系统要求
 
-- Zotero 7.0 | Zotero 8.0
+- Zotero 7 | Zotero 8
 - 网络连接
 - 超能文献账户（可免费注册）
 
