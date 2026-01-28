@@ -4,7 +4,8 @@
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/WildDataX/suppr-zotero-plugin)
 ![GitHub all releases](https://img.shields.io/github/downloads/WildDataX/suppr-zotero-plugin/total)
-![GitHub](https://img.shields.io/github/license/WildDataX/suppr-zotero-plugin)
+![Zotero](https://img.shields.io/badge/Zotero-6.0%2B-blue?style=flat&logo=zotero)
+![Zotero 8](https://img.shields.io/badge/Zotero-8.0%20Compatible-brightgreen?style=flat&logo=zotero)
 ![GitHub stars](https://img.shields.io/github/stars/WildDataX/suppr-zotero-plugin)
 
 **超能文献 Zotero 文档翻译插件**
@@ -28,12 +29,13 @@
 - ⚡ **高效便捷**：无需离开 Zotero 环境
 - 🔒 **隐私保护**：文档翻译过程安全可靠
 - 🌍 **多语言支持**：支持多种语言互译
+- ✅ **完全兼容 Zotero 8**：全面支持最新版本 Zotero
 
 ## 🚀 快速开始
 
 ### 系统要求
 
-- Zotero 6.0 或更高版本
+- Zotero 7.0 | Zotero 8.0
 - 网络连接
 - 超能文献账户（可免费注册）
 
