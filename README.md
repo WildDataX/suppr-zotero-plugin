@@ -3,10 +3,10 @@
 <div align="center">
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/WildDataX/suppr-zotero-plugin)
-![GitHub all releases](https://img.shields.io/github/downloads/WildDataX/suppr-zotero-plugin/total)
+![GitHub all releases](https://img.shields.io/github/downloads/WildDataX/suppr-zotero-plugin/total?style=flat&label=downloads)
 ![Zotero](https://img.shields.io/badge/Zotero-6.0%2B-blue?style=flat&logo=zotero)
 ![Zotero 8](https://img.shields.io/badge/Zotero-8.0%20Compatible-brightgreen?style=flat&logo=zotero)
-![GitHub stars](https://img.shields.io/github/stars/WildDataX/suppr-zotero-plugin)
+![GitHub Repo stars](https://img.shields.io/github/stars/WildDataX/suppr-zotero-plugin?style=social)
 
 **超能文献 Zotero 文档翻译插件**
 
